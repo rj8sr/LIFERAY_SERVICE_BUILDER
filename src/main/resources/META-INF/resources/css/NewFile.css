@@ -1,0 +1,27 @@
+.myTable {
+	border: solid;
+	border-width: 1px;
+	width: 15%;
+	text-align: center;
+	"
+}
+
+.myTable1 {
+	border: solid;
+	border-width: 1px;
+	width: 10%;
+	text-align: center;
+	"
+}
+
+.myTable3 {
+	border: solid;
+	border-width: 1px;
+	width: 100%;
+	text-align: center;
+	"
+}
+
+.control-group .input-text-wrapper {
+	margin-bottom: -1%;
+}
